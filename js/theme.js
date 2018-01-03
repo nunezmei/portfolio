@@ -5,7 +5,7 @@
     - fixed header
     - fixed sidebar
 
-- Project:    Richard - HTML Template
+- Project:    Mary Ann - HTML Template
 - Version:    1.1
 --*/
 
